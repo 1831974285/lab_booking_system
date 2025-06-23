@@ -82,7 +82,7 @@ LabBookingSystem/
 ### 2. 项目获取与构建
 克隆项目仓库
 ```bash
-git clone https://github.com/1831974285/lab_booking_system/LabBookingSystem.git
+git clone https://github.com/1831974285/lab_booking_system.git
 ```
 使用 Qt Creator 打开 LabBooking.pro 文件
 
