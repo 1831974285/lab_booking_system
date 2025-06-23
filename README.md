@@ -80,15 +80,15 @@ LabBookingSystem/
 - 确保系统已安装 SQLite（通常 Qt 已集成）
 
 ### 2. 项目获取与构建
-# 克隆项目仓库
+克隆项目仓库
 ```bash
 git clone https://github.com/1831974285/lab_booking_system/LabBookingSystem.git
 ```
-# 使用 Qt Creator 打开 LabBooking.pro 文件
+使用 Qt Creator 打开 LabBooking.pro 文件
 
-# 选择合适的构建套件（如 MinGW 或 MSVC）
+选择合适的构建套件（如 MinGW 或 MSVC）
 
-# 点击构建并运行
+点击构建并运行
 
 
 ### 3. 数据库初始化
